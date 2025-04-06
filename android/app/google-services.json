@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684957584170",
+    "project_id": "digital-kabaria-app",
+    "storage_bucket": "digital-kabaria-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684957584170:android:b4e597f96dc36d00e8ac53",
+        "android_client_info": {
+          "package_name": "com.example.digital_kabaria_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2tglDwQVpgO2oGQGXen2_kQLXJmDLg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

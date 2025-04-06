@@ -1,0 +1,1 @@
+enum ROLENAME {Seller,Collector,Buyer,admin}
